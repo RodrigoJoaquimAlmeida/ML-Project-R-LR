@@ -1,5 +1,5 @@
 # ML-Projects
-ML Projects using Python and R Language
+ML Project using R Language: Logistic Regression - AUC 0.98
 
 
 Dataset from Kaggle: https://www.kaggle.com/datasets/upadorprofzs/credit-risk
